@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class sheraz_ode : MonoBehaviour
+public class templier_code : MonoBehaviour
 {
+
     public InputField Pass;
     public string code = null;
     public Text txt;
@@ -15,8 +16,6 @@ public class sheraz_ode : MonoBehaviour
     public string To_Load5;
     public string To_Load6;
     public string To_Load7;
-    int wordIndex = 0;
-    [SerializeField] public Text Aff_alpha = null;
 
 
 
@@ -25,44 +24,44 @@ public class sheraz_ode : MonoBehaviour
         code = Pass.text;
         if (Pass.text != null)
         {
-            if (code == "1735")
+            if (code == "WATER" || code == "water")
             {
-
-                UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load2);
-            }
-            else if (code == "PLC")
-            {
-
-                UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load3);
-            }
-            else if (code == "5384")
-            {
-
+                txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load1);
             }
-            else if (code == "586")
+            else if (code == "CRYPTEX" || code == "cryptex")
             {
-
+                txt.text = "Code valide !";
+                UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load2);
+            }
+            else if (code == "6784")
+            {
+                txt.text = "Code valide !";
+                UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load3);
+            }
+            else if (code == "VMS" || code == "vms")
+            {
+                txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load4);
             }
-            else if (code == "369")
+            else if (code == "2654")
             {
-
+                txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load5);
             }
-            else if (code == "319")
+            else if (code == "750")
             {
-
+                txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load6);
             }
-            else if (code == "132")
+            else if (code == "5632")
             {
-
+                txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load7);
             }
             else
             {
-
+                txt.text = "Code erroné !";
                 Pass.text = null;
             }
         }

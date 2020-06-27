@@ -185,4 +185,97 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Pirates/scennes/j3/j3_7pir.unity
     guid: 8dd8ccba810841642b95055bc2ce6e09
+  - enabled: 1
+    path: Assets/Templiers/scenes/Fin_T.unity
+    guid: a4b36062c6b0bae4aa210617314aa3a5
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/inter2_1tmp.unity
+    guid: 18ff241a64a893e4aa8caf122bb54585
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/inter2_2tmp.unity
+    guid: 3d69e6fef8fae1e46bea2eae86dbdbd0
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/inter2_3tmp.unity
+    guid: e901e6231a9e5bd40a9824541e309b10
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_1tmp.unity
+    guid: cfb87acd0f193234097035effe4b518e
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_2tmp.unity
+    guid: 7abfa4648d29f8342bf0c82299a4e001
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_3tmp.unity
+    guid: 42b866b958ddc1a4ca85dcc878c62e4b
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_4tmp.unity
+    guid: 108a51932f4ffa240bf573338e809581
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_5tmp.unity
+    guid: b46d2ad374406574f8dcda0b4a7fb6da
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_6tmp.unity
+    guid: 094a86ab02aec844cbfd2a46235b8c89
+  - enabled: 1
+    path: Assets/Templiers/scenes/j2/j2_7tmp.unity
+    guid: f95dd63d081a85b4cbb85492ebd562ee
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/inter1_1tmp.unity
+    guid: cd58624224b08884aa03ccaaa7c7bd0a
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/inter1_2tmp.unity
+    guid: 1d765c669235dba419d1cd0c176e7db6
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/inter1_3tmp.unity
+    guid: c902f3c9815421241b8661f479db8c9c
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_1tmp.unity
+    guid: 88eb5865d1eff9340b639a1bf71c9d86
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_2tmp.unity
+    guid: 93b3688c89ecf6249908e08476bdc1ad
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_3tmp.unity
+    guid: 4f9466038342bea4fa80e2ab9d865eb3
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_4tmp.unity
+    guid: 72769e1a8b966f94c947920d2b3fd8f3
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_5tmp.unity
+    guid: 8cd4a65f0285fb4419b5ff9203a1359c
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_6tmp.unity
+    guid: 6597e501268538b4ea252b8b12c9fafd
+  - enabled: 1
+    path: Assets/Templiers/scenes/j1/j1_7tmp.unity
+    guid: 0f984007901129d4fb0765e9d11a8d80
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/inter3_1tmp.unity
+    guid: ebc86b11daa4e674eac0d52875b5be9d
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/inter3_2tmp.unity
+    guid: 5437710fd7201634bb5de1ca612554d2
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/inter3_3tmp.unity
+    guid: 76d7b6e85b822744ea6c2fc278237f4d
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_1tmp.unity
+    guid: 4c518ee22eb4b0d43aa42cd67fe53fcb
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_2tmp.unity
+    guid: 298742e0d09bcb74e8c95eb300961247
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_3tmp.unity
+    guid: 1c31c2cbaa61ddc47a2c9b079500c433
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_4tmp.unity
+    guid: 960fba12491819c468f2250b27fd79f9
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_5tmp.unity
+    guid: 9cea9780d4aa93a4bb4855c960499e9b
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_6tmp.unity
+    guid: b8d93b2367b87c64c9675a3cb7674e56
+  - enabled: 1
+    path: Assets/Templiers/scenes/j3/j3_7tmp.unity
+    guid: c27a68dc8c6341146a5161eac80c4860
   m_configObjects: {}
