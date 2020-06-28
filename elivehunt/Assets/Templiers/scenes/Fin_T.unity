@@ -213,7 +213,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 215224409}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4ff79cc842736043a002491217afcd1, type: 3}
+  m_Script: {fileID: 11500000, guid: 4ed26ea78d3e2944fa37dd21601465b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &215224411
@@ -282,10 +282,11 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 762c068f4ef1dd14593d8d36394aa2a3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b8d94414d26812c4e872b607943ec9ee, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -392,7 +393,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: start
+          m_StringArgument: Start
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &723940078
@@ -410,10 +411,11 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5e40ecb011cf070498692b2f96ff178c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e8c128c557a271d4cb37e308b82dbbfd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -769,7 +769,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4666ab42289ded7449e2499aa47ce4cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CodePanel: {fileID: 1198064798}
+  CodePanel: {fileID: 1010134768}
   Open_boutton: {fileID: 1198064798}
 --- !u!1 &689992778
 GameObject:
@@ -1062,6 +1062,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1010134768 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2814058708596676948, guid: f90b944a85a823a4bb07861abd3b08aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 1010134764}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1013888573
 GameObject:
   m_ObjectHideFlags: 0

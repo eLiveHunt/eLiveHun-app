@@ -327,7 +327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fca584631d213ba4b89dfa3b1b5319a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Imagetriggered1: {fileID: 0}
+  Imagetriggered1: {fileID: 159164084}
   Imagetriggered2: {fileID: 0}
 --- !u!4 &510390967
 Transform:
@@ -360,7 +360,7 @@ MonoBehaviour:
   txt: {fileID: 1306346144}
   To_Load1: 
   To_Load2: 
-  To_Load3: innter2_2sh
+  To_Load3: inter2_2sh
   To_Load4: 
   To_Load5: 
   To_Load6: 

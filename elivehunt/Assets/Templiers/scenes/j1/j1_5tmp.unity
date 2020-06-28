@@ -302,9 +302,37 @@ MonoBehaviour:
   To_Load2: 
   To_Load3: 
   To_Load4: 
-  To_Load5: j1_5tmp
+  To_Load5: j1_6tmp
   To_Load6: 
   To_Load7: 
+--- !u!21 &575949113
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'donjonMaterial
+
+    55542'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c122c1b83d3c477c9891607112936d53, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &775586443
 GameObject:
   m_ObjectHideFlags: 0
@@ -434,34 +462,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 775586443}
   m_CullTransparentMesh: 0
---- !u!21 &801641303
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'donjonMaterial
-
-    66432'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c122c1b83d3c477c9891607112936d53, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &851544646
 GameObject:
   m_ObjectHideFlags: 0
@@ -509,7 +509,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 801641303}
+  - {fileID: 575949113}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -572,8 +572,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Temp20.xml
   mAspectRatio: 0.5473026
   mImageTargetType: 0
-  mWidth: 870.4364
-  mHeight: 476.39212
+  mWidth: 452.4484
+  mHeight: 247.62619
 --- !u!4 &851544652
 Transform:
   m_ObjectHideFlags: 0
@@ -583,7 +583,7 @@ Transform:
   m_GameObject: {fileID: 851544646}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 870.4364, y: 870.4364, z: 870.4364}
+  m_LocalScale: {x: 452.4484, y: 452.4484, z: 452.4484}
   m_Children:
   - {fileID: 1058057293}
   m_Father: {fileID: 0}
@@ -1287,11 +1287,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 510390966}
+      objectReference: {fileID: 510390969}
     - target: {fileID: 6125041320970679641, guid: f90b944a85a823a4bb07861abd3b08aa,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: imagekeep
+      value: Enter_Push
       objectReference: {fileID: 0}
     - target: {fileID: 6125041320970679641, guid: f90b944a85a823a4bb07861abd3b08aa,
         type: 3}

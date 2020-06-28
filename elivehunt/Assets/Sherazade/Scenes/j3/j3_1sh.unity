@@ -467,7 +467,7 @@ PrefabInstance:
     - target: {fileID: 8480830226849334315, guid: f90b944a85a823a4bb07861abd3b08aa,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8480830226849334315, guid: f90b944a85a823a4bb07861abd3b08aa,
         type: 3}
@@ -608,7 +608,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -789,7 +789,7 @@ PrefabInstance:
     - target: {fileID: 2671883358850381163, guid: 9e717fd76cb4ea1459e07b6e6805a43d,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2671883358850381163, guid: 9e717fd76cb4ea1459e07b6e6805a43d,
         type: 3}
